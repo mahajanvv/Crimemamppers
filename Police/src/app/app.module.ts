@@ -28,7 +28,7 @@ import { OngoingcomplaintComponent } from './components/ongoingcomplaint/ongoing
   ],
   imports: [
     BrowserModule,
-    AgmCoreModule.forRoot({apiKey:'AIzaSyCkYPwX5vvnnD-D9vdQAw5KvIzUw5-1I6k'
+    AgmCoreModule.forRoot({apiKey:'APIKEY'
   ,libraries:["places"]}),
   FormsModule,
   ReactiveFormsModule,
